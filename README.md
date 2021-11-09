@@ -1,4 +1,5 @@
 # plankthon-hackathon
+Image recognition hackathon using a pretrained CNN. Results visualised using Power BI.
 
 <img width="1026" alt="Screenshot 2021-11-09 at 17 37 56" src="https://user-images.githubusercontent.com/18157225/140977567-5a1e8f4c-e193-4d5b-bb17-54094a197042.png">
 <img width="1234" alt="Screenshot 2021-11-09 at 17 47 53" src="https://user-images.githubusercontent.com/18157225/140977314-01c973f9-2120-499d-b637-fbd59f64f3e6.png">
